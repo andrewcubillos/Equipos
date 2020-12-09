@@ -1,0 +1,10 @@
+com\mycompany\equipos\JAXRSConfiguration.class
+com\mycompany\controlador\equipos\util\JsfUtil$PersistAction.class
+com\mycompany\controlador\equipos\util\JsfUtil.class
+com\mycompany\controlador\equipos\AbstractFacade.class
+com\mycompany\controlador\equipos\UsuarioController$UsuarioControllerConverter.class
+com\mycompany\controlador\equipos\UsuarioController.class
+com\mycompany\controlador\equipos\UsuarioFacade.class
+com\mycompany\equipos\resources\JavaEE8Resource.class
+Login\Beans\LoginBean.class
+com\mycompany\equipos\Usuario.class
